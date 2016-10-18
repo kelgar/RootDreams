@@ -1,0 +1,15 @@
+##ignore backup files
+*~
+*.bak
+*.BAK
+*.xcf
+
+##do not include personal configuration files
+/autoexec.cfg
+/config_rpg.cfg
+/init.cfg
+/debug.txt
+
+##do not include screens
+# *.png -> Problem: ignore textures
+screenshot_* 

@@ -1,0 +1,11 @@
+Sounds were modified by cocma for the RPG Kelgar:
+
+Modifications:
+
+- de-noise
+- compressor
+- sound arrangement
+- change format wav->ogg
+
+
+For furter information please read the license .pdf !

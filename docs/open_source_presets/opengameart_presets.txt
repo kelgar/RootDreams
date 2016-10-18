@@ -1,0 +1,5 @@
+Copy the HTML below and replace the XXX:
+
+<p>XXX created for <a href="http://www.kelgar.org/">Isle</a><br />
+Comes with XXX.</p>
+<div id="stcpDiv"><em>Explore a tiny, remote island filled with a wonderful forest and crazy characters.</em></div>
