@@ -2,7 +2,6 @@
 *~
 *.bak
 *.BAK
-*.xcf
 
 ##do not include personal configuration files
 /autoexec.cfg
@@ -12,4 +11,4 @@
 
 ##do not include screens
 # *.png -> Problem: ignore textures
-screenshot_* 
+*screenshot_* 
